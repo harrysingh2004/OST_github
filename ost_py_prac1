@@ -5,3 +5,13 @@ while (i <= num) :
 	factorial = factorial*i
 	i=i+1
 print("The factorial is" , factorial)
+
+i=1
+while (i<=4):
+    stud_rollno=int(input("enter your roll no :"))
+    name=input("enter your name :")
+    mks1=int(input("enter your mks 1 :"))
+    mks2=int(input("enter your mks 2 :"))
+    mks3=int(input("enter your mks 3 :"))
+    i=i+1
+    print('thank you')
